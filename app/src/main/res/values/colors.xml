@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColor">#D50000</color>
+    <color name="btn_text_color">#2196F3</color>
+    <color name="shadow_text_color">#FFEB3B</color>
+    <color name="background">#FFFFFF</color>
+    <color name="calTextColor">#FFFFFF</color>
+    <color name="calFront">#F8771F</color>
+    <color name="calBack">#F5AD26</color>
+    <color name="rippelColor">#FFFFFF</color>
+</resources>
